@@ -1,0 +1,10 @@
+{
+  "name": "toolcalling",
+  "version": "1.0.0",
+  "description": "Ollama tool calling example with Bun",
+  "scripts": {
+    "start": "bun run tool.ts",
+    "tool": "bun run tool.ts"
+  },
+  "type": "module"
+}
